@@ -16,6 +16,7 @@ and open the template in the editor.
 	echo "Das ist erster Commit";
 this is good commit
 		I make some changes in branch
+		I too make some changes in branch
         ?>
     </body>
 </html>

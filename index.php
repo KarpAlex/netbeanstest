@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "JAWOHHHHHHHHHHHHHHHHL";
 	echo "Das ist erster Commit";
 	echo "Das ist zweiter Commit";
+	echo "Das ist dritter Commit";
         ?>
     </body>
 </html>

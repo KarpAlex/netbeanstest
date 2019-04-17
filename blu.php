@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
        echo "hellofgsdsgs";
+	from fourth commit on different fil
+this is from bad i fixed the bad commit
         ?>
     </body>
 </html>

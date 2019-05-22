@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-       echo "hellofgsdsgs";
+       echo "hellofgsdsgss";
 	from fourth commit on different fil
 this is from bad i fixed the bad commit
         ?>
